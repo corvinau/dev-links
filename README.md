@@ -14,4 +14,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O DevLinks é um agregador de links para usar como cartão de visitas online.
 
-[Acesse o projeto finalizado, online](https://dev-links-corvinau.vercel.app/)
+Acesse o projeto finalizado, online na [Vercel](https://dev-links-corvinau.vercel.app/) ou no [GitHub Pages](https://corvinau.github.io/dev-links/)
